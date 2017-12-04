@@ -1,0 +1,12 @@
+site_name: Zero to Chef
+pages:
+  - Home: index.md
+  - Intro: Chapter01.md  
+  - Puppet Installation using Vagrant: install.md   
+  - Modules: Chapter04.md  
+  - Parameters and Facts: Chapter05.md  
+  - Templates: Chapter06.md  
+  - Deploying App: deploy_app.md 
+  - Rspec: rspec.md
+docs_dir: chapters
+theme: readthedocs
